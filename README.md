@@ -26,7 +26,9 @@ Now->
 
 lupdate_only{
  SOURCES += main.qml somefolder/somefile.qml somefoleder/someotherfolder/someotherfile.qml
+ 
  SOURCES += something.qml
+ 
 }
 
 (may be this will be not shown perfectly in my .md file ...so pls refer my .pro file)
