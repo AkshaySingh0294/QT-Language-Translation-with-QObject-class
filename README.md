@@ -29,10 +29,12 @@ lupdate_only{
  SOURCES += something.qml
 }
 
+(may be this will be not shown perfectly in my .md file ...so pls refer my .pro file)
+
 4)->Once you are done with this then open the terminal in your project's folder and type->
 # lupdate -pro yourProjectProFileName.pro -ts anyCoolerName.ts
 
-If it recognize any statement then it will show you the number of the statement there. If number is 0 then You should check lupdate_only block in pro file.Am again telling write your block of lupdate in given format only.
+If it recognize any statement then it will show you the number of the statement there. If number is 0 then You should check lupdate_only block in pro file.Am again telling write your block of lupdate in given format only as in my .pro file.
 
 5)-> Open your .ts file from folder and for each line add your translation statement. and save the file. 
 6)-> again from terminal type->
