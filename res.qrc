@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chinese.qm</file>
+        <file>don.qm</file>
+        <file>dir.qm</file>
+    </qresource>
+</RCC>
