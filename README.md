@@ -53,7 +53,7 @@ create getter functon of the property.
 now wherever you want to change the translation.
 
 Type->
- Change the translation as given in my hhhh.cpp file and emit the signal of Q_PROPERTY.
+ Change the translation as given in my hhhh.cpp file's call() function and emit the signal of Q_PROPERTY.
  
  In main file make your class funtions accessible by using rootContext()
  
