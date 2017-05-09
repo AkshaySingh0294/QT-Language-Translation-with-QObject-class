@@ -25,6 +25,7 @@ Now->
 3)-> Open your projects pro file. and add below lines, make sure you use this format only for brackets. It recognizes the file name in the form of path to that file only.
 
 lupdate_only{
+
  SOURCES += main.qml somefolder/somefile.qml somefoleder/someotherfolder/someotherfile.qml
  
  SOURCES += something.qml
